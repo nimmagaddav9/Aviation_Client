@@ -13,3 +13,5 @@ Maximum speed. Backend is .net and Front end is React.js, node.js and Material U
 Chief Information Officer
 
 Chief Technology Officer
+
+Jet Support Services, Inc. (JSSI), is the leading independent provider of aircraft maintenance support and financial services in business aviation.
